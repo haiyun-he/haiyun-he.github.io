@@ -177,7 +177,10 @@ Want to learn more about Jekyll? Check out [this tutorial](https://www.taniarasc
 Why Jekyll? Read [Andrej Karpathy's blog post](https://karpathy.github.io/2014/07/01/switching-to-jekyll/)!
 
 ### Local deploy
+
+```bash
 $ bundle exec jekyll serve
+```
 
 ### Installation
 
