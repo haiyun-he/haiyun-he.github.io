@@ -10,9 +10,10 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <center><p>657 Rhodes Hall</p> <center>
+    <center><p style="color:#808080"><small>(Taken in Cornell's Spring)<small></p><center>
+    <!-- <center><p>657 Rhodes Hall</p> <center>
     <p>Cornell University</p>
-    <p>Ithaca, NY 14853</p>
+    <p>Ithaca, NY 14853</p> -->
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -20,9 +21,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am currently a postdoc at Cornell University, working with Prof. Ziv Goldfeld and Prof. Christina Lee Yu. I am honored to be funded by [Center for Applied Mathematics](https://www.cam.cornell.edu/cam) postdoc program at Cornell. My recent research interests lie in the intersection of information theory and machine learning. 
+Hi! I am currently a postdoc at Cornell University, working with [Prof. Ziv Goldfeld](https://people.ece.cornell.edu/zivg/) and [Prof. Christina Lee Yu](https://cleeyu.orie.cornell.edu). I am honored to be funded by the [Center for Applied Mathematics](https://www.cam.cornell.edu/cam) postdoc program. Before joining Cornell, I obtained my PhD degree in Electrical and Computer Engineering from [National University of Singapore](https://www.nus.edu.sg) in Oct. 2022, proudly advised by [Prof. Vincent Y. F. Tan](https://vyftan.github.io/index.html).
 
-**If you are interested in collaborating with me, please do not hesitate to drop me an email (haiyun.he AT u.nus.edu)!**
+My recent research interests lie in the intersection of information theory and machine learning. 
+**If you are interested in collaborating with me, please do not hesitate to drop me an email or drop by &nbsp;<tt>657 Rhodes Hall, Ithaca, NY</tt> &nbsp;!**
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
