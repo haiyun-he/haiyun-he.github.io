@@ -4,3 +4,12 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+
+"Journal":
+
+"CS Conf.":
+  color: "#00369f"
+
+"IT Conf.":
+  color: "#5F9EA0"

@@ -42,7 +42,8 @@ layout: default
 
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
-            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
+            <hr width="50%" align="left" />
+            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;" >News</a></h2>
             {%- include news.html limit=true %}
           {%- endif %}
 
@@ -54,9 +55,13 @@ layout: default
 
           <!-- Selected papers -->
           {% if page.selected_papers -%}
-            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
+            <hr width="50%" align="left" />
+            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Recent publications</a></h2>
             {%- include selected_papers.html %}
           {%- endif %}
+
+          <br />
+          <br />
 
           <!-- Social -->
           {%- if page.social %}
@@ -68,7 +73,7 @@ layout: default
               <div class="contact-note">
                 {{ site.contact_note }}
               </div>
-
+            
             </div>
           {%- endif %}
         </article>
