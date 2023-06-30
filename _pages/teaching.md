@@ -59,3 +59,11 @@ We will not require students to purchase any textbook; the information you need 
 - Pattern Recognition and Machine Learning, Bishop
 - Python Tutorial 2021, Derek Banas. <https://www.youtube.com/watch?v=H1elmMBnykA>
 - Python Machine Learning, Raschka. <https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka/dp/1783555130>
+
+#### **:star2: Favourite Projects of Spring 2023**
+- [Pre-Release Profitability: Predicting Revenue and Ratings for Hollywood Films](https://github.com/tejhan/Movie-Success-Prediction/blob/main/Final%20Report.pdf)
+- [Walking and Health: Improving Communities](https://github.com/emilyysm/WalkingandHealth/blob/main/orie%204741%20final%20report.pdf)
+- [Predicting Cornell Course Enrollment Change During Add/Drop](https://github.com/Joeyetinghan/scheduling_prediction/blob/main/orie4741_final_project_report.pdf)
+- [Smart Money Trading Strategies using 13F Data](https://github.com/yuyuCornell/SmartMoneyStrategy/blob/main/FinalReport5741.pdf)
+- [Machine Learning Solution on ETF Pairs Trading](https://github.com/LinjiaF/ORIE_5741_MLStrategy/blob/main/ORIE_5741_Project_Report_Feng_Wan_Zou.pdf)
+- [Valuation of NBA Free Agents](https://github.coecis.cornell.edu/sl2888/ORIE-5741-Project/blob/main/ORIE%205741%20Final%20Project%20Report.pdf)
