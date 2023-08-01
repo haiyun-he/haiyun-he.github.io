@@ -59,6 +59,7 @@ We will not require students to purchase any textbook; the information you need 
 - Pattern Recognition and Machine Learning, Bishop
 - Python Tutorial 2021, Derek Banas. <https://www.youtube.com/watch?v=H1elmMBnykA>
 - Python Machine Learning, Raschka. <https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka/dp/1783555130>
+- Linear Algebra and Learning from Data Open Course, Gilbert Strang. <https://math.mit.edu/~gs/>
 
 #### **:star2: Favourite Projects of Spring 2023**
 - [Pre-Release Profitability: Predicting Revenue and Ratings for Hollywood Films](https://github.com/tejhan/Movie-Success-Prediction/blob/main/Final%20Report.pdf)
