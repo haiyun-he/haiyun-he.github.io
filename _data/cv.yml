@@ -8,7 +8,7 @@
     - name: Gender
       value: Female
     - name: Languages
-      value: Chinese (Mandarin, Cantonese), English
+      value: Chinese(Mandarin, Cantonese), English
 
 - title: Education
   type: time_table
