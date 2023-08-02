@@ -8,7 +8,7 @@
     - name: Gender
       value: Female
     - name: Languages
-      value: Chinese, English, Japanese (beginner)
+      value: Chinese (Mandarin, Cantonese), English
 
 - title: Education
   type: time_table
@@ -17,7 +17,7 @@
       institution: National University of Singapore, Singapore
       year: 2022
       description:
-        - Thesis&#58 <a href="https://scholarbank.nus.edu.sg/handle/10635/231542">Fundamental Performance Limits of Statistical Problems&#58   From Detection Theory to Semi-Supervised Learning </a>
+        - Thesis&#58 <a href="https://scholarbank.nus.edu.sg/handle/10635/231542">Fundamental Performance Limits of Statistical Problems&#58   From Detection Theory to Semi-Supervised Learning </a> &ensp;<a href="{{url}}/assets/pdf/defense_HHY.pdf" style="color:#00369f;">[Slides]</a>
         - Advisor&#58 Prof. Vincent Y. F. Tan
         # - title: Description 3.
         #   contents:
