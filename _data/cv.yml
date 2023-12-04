@@ -7,6 +7,8 @@
       value: 何海韵
     - name: Gender
       value: Female
+    - name: Hometown
+      value: <a href="https://en.wikipedia.org/wiki/Zhuhai"> Zhuhai, Guangdong, China </a>
     - name: Languages
       value: Chinese(Mandarin, Cantonese), English
 
