@@ -10,7 +10,7 @@ category: Cornell
 ###  `Spring 2024` ORIE 4741/5741 Learning with Big Messy Data
 ---
 
-**Course Website:** <https://canvas.cornell.edu/courses/51457>
+**Course Website:** <https://canvas.cornell.edu/courses/62820>
 
 - Lecture time: 2:55-4:10 pm every Tuesday & Thursday
 - Discussion sections: Monday 12:25-1:15 pm, Tuesday 10:10-11:00pm, Wednesday 9:05-9:55 and 10:10-11:00. (No discussion sections in the first week)
