@@ -12,7 +12,7 @@ category: Cornell
 
 **Course Website:** <https://canvas.cornell.edu/courses/62820>
 
-- Lecture time: 2:55-4:10 pm every Tuesday & Thursday
+- Lecture time: 2:55-4:10 pm every Tuesday & Thursday, Gates Hall G01
 - Discussion sections: Monday 12:25-1:15 pm, Tuesday 10:10-11:00pm, Wednesday 9:05-9:55 and 10:10-11:00. (No discussion sections in the first week)
 
 #### **Information** 
