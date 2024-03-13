@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <font color="#808080">(Pronunciation&#58; /ˈhaɪyuːŋ ˈhɜː/)</font> <br />
+subtitle: <font color="#808080">(Pronunciation&#58; /ˈhaɪyuːŋ ˈhɜː/, &nbsp;  Pronouns&#58; she/her/hers)</font> <br />
   Postdoc Associate, Center for Applied Mathematics, <a href='https://www.cornell.edu'>Cornell University</a>
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
