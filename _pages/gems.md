@@ -20,5 +20,5 @@ Organize your courses by years, topics, or universities, however you like! -->
 - [The importance of stupidity in scientific research, Martin A. Schwartz](https://web.stanford.edu/~fukamit/schwartz-2008.pdf)
 
 
-#### Tools
+#### **Tools**
 - [Relationships Among Common Univariate Distributions, Lawrence M. Leemis (1986)](https://www.jstor.org/stable/pdf/2684876.pdf)  [(Modern version of the graph)](https://www.math.wustl.edu/~jmding/math493/dist.pdf)
