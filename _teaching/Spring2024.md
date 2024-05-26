@@ -56,3 +56,14 @@ We will not require students to purchase any textbook; the information you need 
 - Python Tutorial 2021, Derek Banas. <https://www.youtube.com/watch?v=H1elmMBnykA>
 - Python Machine Learning, Raschka. <https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka/dp/1783555130>
 - Linear Algebra and Learning from Data Open Course, Gilbert Strang. <https://math.mit.edu/~gs/>
+
+
+#### **:star2: Favourite Projects of Spring 2024**
+- [Mt. Washington Weather](https://github.com/bhmoose/ORIE4741_MtWashingtonWeather/blob/main/ORIE4741_Report_Final.pdf)
+- [Driving the Future: Forecasting Pre-Owned Car Prices in India](https://github.com/sunny525s/ORIE-4741-Final-Project/blob/main/ORIE_4741_Final_Project.pdf)
+- [Airline Satisfaction Analysis](https://github.com/xinhaohe245/4741-project/blob/main/4741_project_report.pdf)
+- [Predictive Insights into the Melbourne Housing Market: A Comprehensive Analysis of Property Price Drivers](https://github.coecis.cornell.edu/jx379/ORIE5741/blob/main/ORIE5741_Final_Project%20(4).pdf)
+- [Predictive Analytics for Heart Disease Risk Based on Key Indicators](https://github.com/Angela6Li/Predictive-Analytics-for-Heart-Disease-Risk/blob/main/5741%20Final%20Report%20-%20Ruihan%20Dou%2C%20Anqi%20Li.pdf)
+- [Spotify Tracks Popularity Analysis](https://github.com/Richardlin112/Spotify-Tracks)
+- [Identifying Early Signs of Bank Account Fraud](https://github.com/AnthonyC-S/orie_5741_project/blob/main/ORIE_5741_Final_Project_Report.pdf)
+- [Can We Predict Airline Customer Satisfaction?](https://github.com/Peta0228/Airline-Satisfaction-Prediction/blob/main/ORIE_5741_Final_Project.pdf)
