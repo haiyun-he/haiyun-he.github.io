@@ -11,7 +11,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <center><p style="color:#808080"><small>(Taken in Cornell's Spring)<small></p><center>
+    <center><p style="color:#808080"><small>(Taken at Cornell Slope)<small></p><center>
     <!-- <center><p>657 Rhodes Hall</p> <center>
     <p>Cornell University</p>
     <p>Ithaca, NY 14853</p> -->
