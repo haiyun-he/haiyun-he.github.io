@@ -24,7 +24,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I am currently a postdoc at Cornell University, working with [Prof. Ziv Goldfeld](https://people.ece.cornell.edu/zivg/) from [ECE](https://www.ece.cornell.edu/ece) and [Prof. Christina Lee Yu](https://cleeyu.orie.cornell.edu) from [ORIE](https://www.orie.cornell.edu/orie). I am honored to be funded by the [Center for Applied Mathematics](https://www.cam.cornell.edu/cam) postdoctoral fellowship. Before joining Cornell, I obtained my PhD degree in Electrical and Computer Engineering from [National University of Singapore](https://www.nus.edu.sg) in Sep. 2022, advised by [Prof. Vincent Y. F. Tan](https://vyftan.github.io/index.html).
 
-My recent research interests lie in the intersection of information theory and machine learning, including but not limited to:
+My recent research interests lie in the intersection of **information theory** and **machine learning**, including but not limited to:
 - Machine learning and statistical learning theory 
 - Hypothesis testing
 - Inference and estimation
