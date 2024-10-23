@@ -32,7 +32,7 @@ My recent research interests lie in the intersection of information theory and m
 
 **If you are interested in collaborating with me, please do not hesitate to drop me an email (at the bottom) or drop by &nbsp;<tt>657 Rhodes Hall, Ithaca, NY</tt> &nbsp;!**
 
-⭐ **I will be on the 2024-2025 academic job market. Please feel free to reach out!**
+⭐ **I am on the 2024-2025 academic job market. Please feel free to reach out!**
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
