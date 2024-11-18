@@ -2,7 +2,7 @@
 layout: page
 title: Spring 2023
 description: Spring 2023 ORIE 4741/5741
-img: assets/img/12.jpg
+img: assets/img/vein.webp
 importance: 2
 category: Cornell
 ---

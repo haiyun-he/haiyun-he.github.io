@@ -2,7 +2,7 @@
 layout: page
 title: Spring 2024
 description: Spring 2024 ORIE 4741/5741
-img: assets/img/3.jpg
+img: assets/img/word-cloud.png
 importance: 1
 category: Cornell
 ---
