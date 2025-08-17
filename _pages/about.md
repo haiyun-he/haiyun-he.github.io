@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: <font color="#808080">(Pronunciation&#58; /ˈhaɪyuːŋ ˈhɜː/, &nbsp;  Pronouns&#58; she/her/hers)</font> <br />
-  Postdoc Associate, Center for Applied Mathematics, <a href='https://www.cornell.edu'>Cornell University</a>
+  Assistant Professor, Internet of Things Thrust, <a href="https://www.hkust-gz.edu.cn">HKUST(GZ)</a>
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
@@ -22,7 +22,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am currently a postdoc at Cornell University, working with [Prof. Ziv Goldfeld](https://people.ece.cornell.edu/zivg/) from [ECE](https://www.ece.cornell.edu/ece) and [Prof. Christina Lee Yu](https://cleeyu.orie.cornell.edu) from [ORIE](https://www.orie.cornell.edu/orie). I am honored to be funded by the [Center for Applied Mathematics](https://www.cam.cornell.edu/cam) postdoctoral fellowship. Before joining Cornell, I obtained my PhD degree in Electrical and Computer Engineering from [National University of Singapore](https://www.nus.edu.sg) in Sep. 2022, advised by [Prof. Vincent Y. F. Tan](https://vyftan.github.io/index.html).
+Hi! I am currently an Assistant Professor in the Internet of Things (IoT) Thrust at <a href="https://www.hkust-gz.edu.cn">The Hong Kong University of Science and Technology (Guangzhou)</a>. Before joining HKUST(GZ), I was a postdoc in the <a href="https://cam.cornell.edu">Center for Applied Mathematics at Cornell University</a>, working with [Prof. Ziv Goldfeld](https://people.ece.cornell.edu/zivg/) from [ECE](https://www.ece.cornell.edu/ece) and [Prof. Christina Lee Yu](https://cleeyu.orie.cornell.edu) from [ORIE](https://www.orie.cornell.edu/orie). I was honored to be funded by the [Center for Applied Mathematics](https://www.cam.cornell.edu/cam) postdoctoral fellowship. I obtained my PhD degree in Electrical and Computer Engineering from [National University of Singapore](https://www.nus.edu.sg) in Sep. 2022, advised by [Prof. Vincent Y. F. Tan](https://vyftan.github.io/index.html).
 
 My recent research interests lie in the intersection of **information theory** and **machine learning**, including but not limited to:
 - Machine learning and statistical learning theory 
@@ -30,14 +30,11 @@ My recent research interests lie in the intersection of **information theory** a
 - Inference and estimation
 - Wireless communications
 
-**If you are interested in collaborating with me, please do not hesitate to drop me an email (at the bottom) or drop by &nbsp;<tt>657 Rhodes Hall, Ithaca, NY</tt> &nbsp;!**
+**If you are interested in collaborating with me, please do not hesitate to drop me an email (at the bottom) or drop by my office &nbsp;<tt>W3-604</tt> &nbsp;!**
 
 
 <div style="background-color: #FFFBEB; padding: 15px; border: 2px solid #FFE082; border-radius: 5px;">
-  💡 I will be joining <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/internet-of-things/">Internet of Things (IoT) Thrust</a> at 
-  <a href="https://www.hkust-gz.edu.cn">The Hong Kong University of Science and Technology (Guangzhou)</a> as a tenure-track Assistant Professor starting in Fall 2025.
-  <br><br>
-  I am looking for highly motivated PhD/Mphil students and research assistants to join my group. If you are interested in exploring the intersection of information theory, machine learning, and statistics -- and have a reasonably strong background in mathematics or programming (or a strong interest in developing one) -- please feel free to reach out. 
+  💡 I am looking for highly motivated PhD/Mphil students and research assistants to join my group. If you are interested in exploring the intersection of information theory, machine learning, and statistics -- and have a reasonably strong background in mathematics or programming (or a strong interest in developing one) -- please feel free to reach out. 
   <br><br>
   To apply, please send an email with your CV, transcript, and a brief statement of your research interests. Use the subject line: <code>[Year]-[PhD/Mphil/RA Application]-[Your Name]</code>, e.g., <code>25Fall-PhD Application-Haiyun He</code>.
 </div>
