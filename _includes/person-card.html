@@ -1,0 +1,167 @@
+{% comment %}
+<div class="col-12 col-sm-6 col-lg-4 mb-4">
+  <div class="card h-100 shadow-sm">
+    {% if person.image %}
+      <img class="card-img-top member-photo" src="{{ person.image | relative_url }}" alt="{{ person.title }}">
+    {% endif %}
+
+    <div class="card-body">
+      <h5 class="card-title mb-1">
+        {% if person.url %}
+          <a href="{{ person.url | relative_url }}">{{ person.title }}</a>
+        {% else %}
+          {{ person.title }}
+        {% endif %}
+      </h5>
+
+      <div class="d-flex align-items-center gap-2 mb-2">
+        <!-- {% if person.role %}<span class="badge bg-secondary">{{ person.role }}</span>{% endif %} -->
+        {% if person.alumni == true %}<span class="badge bg-outline-primary">Alumni</span>{% endif %}
+      </div>
+
+      <!-- {%- assign topdeg = person.degrees | first -%}
+      {% if topdeg %}
+        <div class="small text-muted">
+          {{ topdeg.degree }} in {{ topdeg.field }}, {{ topdeg.university }}
+          {% if topdeg.year %}’{{ topdeg.year | slice: -2, 2 }}{% endif %}
+        </div>
+      {% endif %} -->
+
+      {% if person.degrees %}
+        <div class="mt-2">
+            <!-- <div class="small fw-semibold mb-1">Degrees</div> -->
+            <ul class="list-unstyled degree-list mb-0">
+            {% for d in person.degrees %}
+                <li class="small d-flex align-items-start mb-1">
+                <i class="fas fa-graduation-cap me-2 mt-1" aria-hidden="true"></i>
+                <span>
+                    {% if d.degree %}{{ d.degree }}{% endif %}
+                    {% if d.field %}{% if d.degree %}, {% endif %}{{ d.field }}{% endif %}
+                    {% if d.university %}{% if d.degree or d.field %}, {% endif %}{{ d.university }}{% endif %}
+                    {% if d.year %} ({{ d.year }}){% endif %}
+                </span>
+                </li>
+            {% endfor %}
+            </ul>
+        </div>
+      {% endif %}
+
+      
+      {% if person.years.start or person.years.end %}
+        <div class="small mt-3">
+          <span style="font-weight:600;">Years:</span>
+          {% if person.years.start %}{{ person.years.start }}{% endif %}
+          – {% if person.years.end %}{{ person.years.end }}{% else %}present{% endif %}
+        </div>
+      {% endif %}
+
+      {% if person.interests %}
+        <div class="mt-2">
+          <span class="small" style="font-weight:600;">Interests:</span>
+          <span class="small">{{ person.interests | join: ", " }}</span>
+        </div>
+      {% endif %}
+    </div>
+
+    <div class="card-footer bg-white border-0 pt-0">
+      <div class="d-flex flex-wrap gap-1">
+        {% if person.email %}<a class="small" href="mailto:{{ person.email }}"><i class="fas fa-paper-plane"></i></a>{% endif %}
+        {% if person.website %}<a class="small" href="{{ person.website }}"><i class="fa-solid fa-globe"></i></a>{% endif %}
+        {% if person.scholar %}<a class="small" href="{{ person.scholar }}"><i class="ai ai-google-scholar"></i></a>{% endif %}
+        {% if person.github %}<a class="small" href="https://github.com/{{ person.github }}"><i class="fa-brands fa-github"></i></a>{% endif %}
+        {% if person.twitter %}<a class="small" href="https://twitter.com/{{ person.twitter }}"><i class="fa-brands fa-x-twitter"></i></a>{% endif %}
+        {% if person.linkedin %}<a class="small" href="{{ person.linkedin }}"><i class="fa-brands fa-linkedin"></i></a>{% endif %}
+      </div>
+    </div>
+  </div>
+</div>
+{% endcomment %}
+
+
+
+<div class="col-12 mb-4">
+  <div class="card h-100 shadow-sm border-0 px-3 py-3">
+    <div class="d-flex flex-column flex-sm-row align-items-center align-items-sm-start gap-3">
+
+      <!-- Left: circular photo -->
+      <div class="member-photo-wrapper">
+        {% if person.image %}
+          <img class="member-photo" src="{{ person.image | relative_url }}" alt="{{ person.title }}">
+        {% else %}
+          <div class="member-avatar placeholder d-flex align-items-center justify-content-center">
+            <i class="fa-regular fa-user"></i>
+          </div>
+        {% endif %}
+      </div>
+
+      <!-- Right: text -->
+      <div class="flex-grow-1 w-100">
+        <h5 class="mb-1">
+          {% if person.url %}
+            <a href="{{ person.url | relative_url }}" class="text-decoration-none" style="font-weight:700;">{{ person.title }}</a>
+          {% else %}
+            <span style="font-weight:700;">{{ person.title }}</span>
+          {% endif %}
+        </h5>
+
+        {% if person.role or person.alumni %}
+          <div class="mb-2">
+            <!-- {% if person.role %}<span class="badge bg-secondary me-1">{{ person.role }}</span>{% endif %} -->
+            {% if person.alumni == true %}<span class="badge bg-outline-primary">Alumni</span>{% endif %}
+          </div>
+        {% endif %}
+
+        {% if person.degrees %}
+          <div class="small text-muted">
+            <span class="fw-semibold text-dark">Degrees:</span>
+            <ul class="list-unstyled degree-list mb-2 mt-1">
+              {% assign degrees_sorted = person.degrees %}
+              {% for d in degrees_sorted %}
+                <li class="d-flex">
+                  <i class="fa-solid fa-graduation-cap me-3 mt-1"></i>
+                  <span>
+                    {% if d.degree %}{{ d.degree }}{% endif %}
+                    {% if d.field %}{% if d.degree %}, {% endif %}{{ d.field }}{% endif %}
+                    {% if d.university %}{% if d.degree or d.field %}, {% endif %}{{ d.university }}{% endif %}
+                    {% if d.year %} ({{ d.year }}){% endif %}
+                  </span>
+                </li>
+              {% endfor %}
+            </ul>
+          </div>
+        {% endif %}
+
+        {% if person.years.start or person.years.end %}
+          <div class="small text-muted d-flex align-items-start mt-2">
+            <!-- <div class="me-2 icon-col"><i class="fa-regular fa-calendar"></i></div> -->
+            <div>
+              <span class="label-strong">Years:</span>
+              {% if person.years.start %}{{ person.years.start }}{% endif %}
+               – {% if person.years.end %}{{ person.years.end }}{% else %}present{% endif %}
+            </div>
+          </div>
+        {% endif %}
+
+        {% if person.interests %}
+          <div class="small text-muted d-flex align-items-start mt-1">
+            <!-- <div class="me-2 icon-col"><i class="fa-solid fa-lightbulb"></i></div> -->
+            <div>
+              <span class="label-strong">Interests:</span>
+              {{ person.interests | join: ", " }}
+            </div>
+          </div>
+        {% endif %}
+
+        {% comment %} Social links {% endcomment %}
+        <div class="d-flex flex-wrap mt-3 member-social">
+          {% if person.email %}<a class="small" href="mailto:{{ person.email }}"><i class="fa-regular fa-envelope"></i></a>{% endif %}
+          {% if person.website %}<a class="small" href="{{ person.website }}"><i class="fa-solid fa-globe"></i></a>{% endif %}
+          {% if person.scholar %}<a class="small" href="{{ person.scholar }}"><i class="ai ai-google-scholar"></i></a>{% endif %}
+          {% if person.github %}<a class="small" href="https://github.com/{{ person.github }}"><i class="fa-brands fa-github"></i></a>{% endif %}
+          {% if person.twitter %}<a class="small" href="https://twitter.com/{{ person.twitter }}"><i class="fa-brands fa-x-twitter"></i></a>{% endif %}
+          {% if person.linkedin %}<a class="small" href="{{ person.linkedin }}"><i class="fa-brands fa-linkedin"></i></a>{% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

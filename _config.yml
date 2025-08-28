@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Haiyun's Homepage # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Haiyun
 middle_name: 
 last_name: He
@@ -178,6 +178,9 @@ collections:
   teaching:
     output: true
     permalink: /teaching/:path/
+  group:
+    output: true
+    permalink: /group/:path/
 
 announcements:
   enabled: true
