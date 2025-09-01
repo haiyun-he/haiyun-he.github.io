@@ -7,21 +7,23 @@ degrees:                     # NEW: ordered list (top = most recent)
     field: "Math"
     university: "Beijing Normal University"
     year: 2024
-email: "2024104166@ruc.edu.cn"
+email: "bli618@connect.hkust-gz.edu.cn"
 website: 
 scholar:    # any of these social links are optional
 github: 
 twitter: 
 linkedin: 
-image: ""      # put images here (create folder)
+image: "/assets/img/people/bingying.jpg"      # put images here (create folder)
 interests:
-  - Information-Theoretic Analysis of Generalization Error in Learning Systems
+  - Theoretical foundations of machine learning
+  - Intersection of machine learning, statistics, and information theory
 order: 3                                     # for manual sorting within a role
 alumni: false                                # set true and add `years:` if alumni
 years:                                       # optional, for alumni listing
   start: 2025-08
   end: 
 bio: >
+  PhD student interested in the theoretical foundations of machine learning, exploring the intersection of machine learning, statistics, and information theory. I am curious about fundamental principles and enjoy exchanging ideas with peers to spark new perspectives.
 ---
 
 <div class="row g-4 align-items-start">
