@@ -7,9 +7,9 @@ nav: false
 ---
 ---
 
-<div style="background-color: #FFFBEB; padding: 15px; border: 2px solid #FFE082; border-radius: 5px;">
-Good luck to your job search!
-</div>
+> 🍀 **_Good luck to your job search!_**
+
+<br>
 
 ### Useful advice:
 
