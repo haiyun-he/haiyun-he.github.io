@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Academic Job Market Materials
-permalink: /jobmarket/
+permalink: /gems/jobmarket/
 description: Some advice and materials that I found useful during academic job search. Thank all the contributors!
 nav: false
 ---
