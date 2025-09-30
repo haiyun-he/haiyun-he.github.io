@@ -22,4 +22,4 @@ Organize your courses by years, topics, or universities, however you like! -->
 
 #### **Tools**
 - [Relationships Among Common Univariate Distributions, Lawrence M. Leemis (1986)](https://www.jstor.org/stable/pdf/2684876.pdf)  [(Modern version of the graph)](https://www.math.wustl.edu/~jmding/math493/dist.pdf)
-- [Academic job market materials collected by myself](/jobmarket/)
+- 🙌[Academic job market materials collected by myself](/jobmarket/)
