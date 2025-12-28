@@ -2,7 +2,7 @@
 layout: page
 permalink: /group/
 title: Group
-description: Members in Haiyun's Research Group
+description: Members in Haiyun's Research Group 
 nav: true
 nav_order: 1
 ---
@@ -11,7 +11,7 @@ nav_order: 1
 
 Organize your courses by years, topics, or universities, however you like! -->
 
-🌱 🌱 🌱
+🌱 🌱 🌱  HH∞ Lab (tentative)
 
 ---
 

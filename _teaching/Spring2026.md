@@ -2,7 +2,7 @@
 layout: page
 title: Spring 2026
 description: IOTA 5507 Info Theory & Its Applications in ML
-img: assets/img/word-cloud.png
+img: assets/img/course promotion poster_IOTA5507.png
 importance: 1
 category: HKUST(GZ)
 ---
