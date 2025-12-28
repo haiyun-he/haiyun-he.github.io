@@ -5,7 +5,7 @@ title: Teaching
 description: Materials for courses.
 nav: true
 nav_order: 5
-display_categories: [Cornell]
+display_categories: [HKUST(GZ), Cornell]
 horizontal: true
 ---
 
