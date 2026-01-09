@@ -7,7 +7,7 @@ importance: 1
 category: HKUST(GZ)
 ---
 
-###  `Spring 2026` IOTA 5507 Information Theory and Its Applications in Machine Learning
+###  `Spring 2026` IOTA 5507/IOTA 6910I Information Theory and Its Applications in Machine Learning
 ---
 **Course Website:** TBD
 
