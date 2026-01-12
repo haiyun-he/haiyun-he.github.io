@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Spring 2026
-description: IOTA 5507 Info Theory & Its Applications in ML
+description: IOTA 5507/6910I Info Theory & Its Applications in ML
 img: assets/img/course promotion poster_IOTA5507.png
 importance: 1
 category: HKUST(GZ)
 ---
 
-###  `Spring 2026` IOTA 5507/IOTA 6910I Information Theory and Its Applications in Machine Learning
+###  `Spring 2026` IOTA 5507/6910I Information Theory and Its Applications in Machine Learning
 ---
 **Course Website:** TBD
 
@@ -44,8 +44,14 @@ Familiarity with linear algebra, basic knowledge in probability theory, and some
 - Week 12: Generalization bounds
 - Week 13: Contemporary topics in machine learning and LLMs
 
+#### **Course Assessment**
+- Homework (30%)
+- Mid-Term Exam (30%)
+- Final Exam (40%)
+
 #### **Textbooks and readings**
 We will not require students to purchase any textbook; the information you need to know will be posted as lecture notes. However, we heartily recommend all of the following, and will be drawing on ideas from many of these:
 - [1] Thomas M. Cover & Joy A. Thomas, Elements of Information Theory, 2nd ed., Wiley, 2006. 
 - [2] Yury Polyanskiy & Yihong Wu, Information Theory: From Coding to Learning, Cambridge University Press, 2025.
+
 
