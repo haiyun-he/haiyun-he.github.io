@@ -9,9 +9,10 @@ category: HKUST(GZ)
 
 ###  `Spring 2026` IOTA 5507/6910I Information Theory and Its Applications in Machine Learning
 ---
-**Course Website:** TBD
+**Course Website:** <https://hkust-gz.instructure.com/courses/3217>
 
 - Lecture time: 1:30-4:20 pm every Thursday
+- Classroom: W1-222
 - Office hour: TBD
 
 <div style="text-align: center; margin: 1.5em 0;">
