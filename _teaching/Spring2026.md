@@ -13,7 +13,7 @@ category: HKUST(GZ)
 
 - Lecture time: 1:30-4:20 pm every Thursday
 - Classroom: W1-222
-- Office hour: TBD
+- Office hour: 10-11 am every Friday, W3-604
 
 <div style="text-align: center; margin: 1.5em 0;">
   <img src="/assets/img/course promotion poster_IOTA5507.png"

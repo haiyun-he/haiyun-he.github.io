@@ -18,6 +18,7 @@ Organize your courses by years, topics, or universities, however you like! -->
 #### **Articles** 
 
 - [The importance of stupidity in scientific research, Martin A. Schwartz](https://web.stanford.edu/~fukamit/schwartz-2008.pdf)
+- [A FEW TIPS ON WRITING PAPERS WITH MATHEMATICAL CONTENT, John N. Tsitsiklis](/assets/pdf/R-19-writing-v4.pdf)
 
 
 #### **Tools**
