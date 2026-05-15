@@ -28,7 +28,7 @@ My recent research interests lie in the intersection of **information theory** a
 - Machine learning and statistical learning theory 
 - Hypothesis testing
 - Inference and estimation
-- Wireless communications
+- Trustworthy AI
 
 **If you are interested in collaborating with me, please do not hesitate to drop me an email (at the bottom) or drop by my office &nbsp;<tt>W3-604</tt> &nbsp;!**
 
