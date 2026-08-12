@@ -23,10 +23,10 @@ interests:
   - LLM Watermarking
   - Data Science
 order: 2                                     # for manual sorting within a role
-alumni: false                                # set true and add `years:` if alumni
+alumni: true                                # set true and add `years:` if alumni
 years:                                       # optional, for alumni listing
   start: 2025-08
-  end: 
+  end: 2026-06
 bio: >
   I am Baixin Li, and my current research interests include artificial intelligence and Large Language Model (LLM) watermark embedding. I obtained a Master's degree in Computer Science from the University of Hong Kong. Currently, I am focusing on developing efficient, lossless watermarking techniques for LLMs.
 ---

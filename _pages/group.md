@@ -11,7 +11,7 @@ nav_order: 1
 
 Organize your courses by years, topics, or universities, however you like! -->
 
-🌱 🌱 🌱  HH∞ Lab (tentative)
+🌱 🌱 🌱  H2∞ Lab (tentative)
 
 ---
 
@@ -43,7 +43,7 @@ Set `alumni: true` (and optionally years.end) for alumni.
   {%- endfor -%}
 </div>
 
-<!-- ---
+
 
 ## MPhil Students
 <div class="row">
@@ -51,7 +51,7 @@ Set `alumni: true` (and optionally years.end) for alumni.
   {%- for person in mphil -%}
     {% include person-card.html person=person %}
   {%- endfor -%}
-</div> -->
+</div>
 
 ---
 
@@ -63,7 +63,6 @@ Set `alumni: true` (and optionally years.end) for alumni.
   {%- endfor -%}
 </div>
 
-<!-- ---
 
 ## Alumni
 <div class="row">
@@ -71,4 +70,4 @@ Set `alumni: true` (and optionally years.end) for alumni.
   {%- for person in alumni -%}
     {% include person-card.html person=person %}
   {%- endfor -%}
-</div> -->
+</div>

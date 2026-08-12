@@ -1,7 +1,7 @@
 ---
 layout: page               # keeps individual profile pages styled like the site
 title: "Zhenxin AI"
-role: "RA"
+role: "RA"                 # role: "PI" | "PhD Student" | "MPhil Student" | "RA"
 degrees:                     # NEW: ordered list (top = most recent)
   - degree: "B.S."
     field: "AI"
