@@ -52,6 +52,7 @@
           <span style="font-weight:600;">Years:</span>
           {% if person.years.start %}{{ person.years.start }}{% endif %}
           – {% if person.years.end %}{{ person.years.end }}{% else %}present{% endif %}
+          {% if person.alumni == true %}<span class="ms-2 fw-semibold">{{ person.role }}</span>{% endif %}
         </div>
       {% endif %}
 
@@ -138,7 +139,8 @@
               <span class="label-strong">Years:</span>
               {% if person.years.start %}{{ person.years.start }}{% endif %}
                – {% if person.years.end %}{{ person.years.end }}{% else %}present{% endif %}
-            </div>
+              {% if person.alumni == true %}<span class="ms-2 fw-semibold"> · {{ person.role }}</span>{% endif %}
+              </div>
           </div>
         {% endif %}
 
