@@ -515,15 +515,26 @@ footer.sticky-bottom {
 .projects a:hover .card-title {
   color: var(--global-theme-color);
 }
+.projects .card {
+  height: 100%;
+}
 .projects .card img {
   width: 100%;
 }
 .projects .card-item {
   width: auto;
   margin-bottom: 10px;
-}
-.projects .card-item .row {
   display: flex;
+}
+.projects .card-item > a {
+  display: flex;
+  width: 100%;
+}
+.projects .card-item > a > .card {
+  flex: 1;
+}
+.projects .card-item > a > .card > .row {
+  height: 100%;
   align-items: center;
 }
 .projects .grid-sizer,
