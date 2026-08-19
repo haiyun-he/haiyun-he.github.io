@@ -508,6 +508,8 @@ footer.sticky-bottom {
   }
 
   .card {
+    height: 100%;
+
     img {
       width: 100%;
     }
@@ -516,11 +518,24 @@ footer.sticky-bottom {
   .card-item {
     width: auto;
     margin-bottom: 10px;
+    display: flex;
 
-    .row {
+    > a {
       display: flex;
-      align-items: center;
+      width: 100%;
+      > .card {
+        flex: 1;
+        > .row {
+          height: 100%;
+          align-items: center;
+        }
+      }
     }
+
+    // .row {
+    //   display: flex;
+    //   align-items: center;
+    // }
   }
 
   .grid-sizer,

@@ -1,34 +1,32 @@
 ---
 layout: page               # keeps individual profile pages styled like the site
-title: "Zhenxin AI"
-role: "RA"                 # role: "PI" | "PhD Student" | "MPhil Student" | "RA"
+title: "Hengxi Zhang"
+role: "PhD Student"              # role: "PI" | "PhD Student" | "MPhil Student" | "RA"
 degrees:                     # NEW: ordered list (top = most recent)
+  - degree: "M.S."
+    field: "Math"
+    university: "Northwestern Polytechnical University"
+    year: 2026
   - degree: "B.S."
-    field: "AI"
-    university: "Jiangxi University of Science and Technology"
-    year: 2025
-email: "aikunkun34@gmail.com"
-website: "https://ai-kunkun.github.io/"
-scholar: "https://scholar.google.com.hk/citations?user=NOuBBWcAAAAJ&hl=zh-CN"
-# any of these social links are optional
-github: "https://github.com/ai-kunkun"
-twitter: 
-linkedin: 
-image: "/assets/img/people/zhenxin.jpg"
+    field: "Math"
+    university: "Zhengzhou University"
+    year: 2023
+email: "hzhang955@connect.hkust-gz.edu.cn"
+image: "/assets/img/people/hengxi.jpg"
 # put images here (create folder)
 interests:
-  - Watermarking for LLMs
-  - Multimodal Large Language Models (MLLMs)
-  - Roller skating
-  - Hiking
-order: 1                                     # for manual sorting within a role
+  - LLM Watermarking
+  - Mathematical Foundations of LLMs
+  - Information Theory
+order: 2                                     # for manual sorting within a role
 alumni: false                                # set true and add `years:` if alumni
 years:                                       # optional, for alumni listing
-  start: 2025-08
+  start: 2026-08
   end: 
 bio: >
-  I enjoy bringing people together and turning ideas into clear, actionable plans.
+  PhD student interested in the mathematics behind large language models. My current research focuses on LLM watermarking, and more broadly, I enjoy thinking about what mathematical ideas can tell us about these models. Outside research, I enjoy playing badminton and watching anime.
 ---
+
 
 <div class="row g-4 align-items-start">
   <div class="col-12 col-md-4">

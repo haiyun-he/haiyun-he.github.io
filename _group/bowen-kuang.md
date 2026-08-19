@@ -1,33 +1,38 @@
 ---
 layout: page               # keeps individual profile pages styled like the site
-title: "Zhenxin AI"
-role: "RA"                 # role: "PI" | "PhD Student" | "MPhil Student" | "RA"
+title: "Bowen KUANG"
+role: "MPhil Student"              # role: "PI" | "PhD Student" | "MPhil Student" | "RA"
 degrees:                     # NEW: ordered list (top = most recent)
-  - degree: "B.S."
-    field: "AI"
-    university: "Jiangxi University of Science and Technology"
+  - degree: "MSc"
+    field: "Data Science"
+    university: "The Chinese University of Hong Kong, Shenzhen"
     year: 2025
-email: "aikunkun34@gmail.com"
-website: "https://ai-kunkun.github.io/"
-scholar: "https://scholar.google.com.hk/citations?user=NOuBBWcAAAAJ&hl=zh-CN"
+  - degree: "BBA"
+    field: "Economics"
+    university: "The Chinese University of Hong Kong, Shenzhen"
+    year: 2023
+email: "1919254148@qq.com"
+website: "https://119020.github.io/LGU-Go" 
+scholar:
 # any of these social links are optional
-github: "https://github.com/ai-kunkun"
-twitter: 
-linkedin: 
-image: "/assets/img/people/zhenxin.jpg"
+github: "https://github.com/119020"
+twitter:
+linkedin:
+image: "/assets/img/people/bowen.jpg"
 # put images here (create folder)
 interests:
-  - Watermarking for LLMs
-  - Multimodal Large Language Models (MLLMs)
-  - Roller skating
-  - Hiking
-order: 1                                     # for manual sorting within a role
+  - Game Theory in Ecomomics
+  - Expectation-Maximization (EM) Algorithm in Statistics
+  - The Game of Go (Weiqi)
+  - Badminton, Tennis, ...
+  - Japanese Animate & Theme Songs
+order: 5                                    # for manual sorting within a role
 alumni: false                                # set true and add `years:` if alumni
 years:                                       # optional, for alumni listing
-  start: 2025-08
+  start: 2025-12
   end: 
 bio: >
-  I enjoy bringing people together and turning ideas into clear, actionable plans.
+  No Game No Life.
 ---
 
 <div class="row g-4 align-items-start">

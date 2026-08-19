@@ -1,34 +1,28 @@
 ---
 layout: page               # keeps individual profile pages styled like the site
-title: "Zhenxin AI"
-role: "RA"                 # role: "PI" | "PhD Student" | "MPhil Student" | "RA"
+title: "Xinran SHI"
+role: "MPhil Student"              # role: "PI" | "PhD Student" | "MPhil Student" | "RA"
 degrees:                     # NEW: ordered list (top = most recent)
   - degree: "B.S."
-    field: "AI"
-    university: "Jiangxi University of Science and Technology"
+    field: "Mathematics and Applied Mathematics"
+    university: "Ocean University of China"
     year: 2025
-email: "aikunkun34@gmail.com"
-website: "https://ai-kunkun.github.io/"
-scholar: "https://scholar.google.com.hk/citations?user=NOuBBWcAAAAJ&hl=zh-CN"
-# any of these social links are optional
-github: "https://github.com/ai-kunkun"
-twitter: 
-linkedin: 
-image: "/assets/img/people/zhenxin.jpg"
+email: "xshi313@connect.hkust-gz.edu.cn"
+image: "/assets/img/people/xinranshi.jpeg"
 # put images here (create folder)
 interests:
   - Watermarking for LLMs
-  - Multimodal Large Language Models (MLLMs)
-  - Roller skating
-  - Hiking
+  - Statistics
 order: 1                                     # for manual sorting within a role
 alumni: false                                # set true and add `years:` if alumni
 years:                                       # optional, for alumni listing
   start: 2025-08
-  end: 
+  end: 2027-10 (expected)
 bio: >
-  I enjoy bringing people together and turning ideas into clear, actionable plans.
+  Eager for something new ^-^ 
+  Try to make it last past day two -_-
 ---
+
 
 <div class="row g-4 align-items-start">
   <div class="col-12 col-md-4">

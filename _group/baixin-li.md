@@ -46,7 +46,7 @@ bio: >
       {% if page.years.start or page.years.end %}
         <div class="mt-2"><span class="fw-semibold">Years:</span>
           {% if page.years.start %}{{ page.years.start }}{% endif %} – {% if page.years.end %}{{ page.years.end }}{% else %}present{% endif %}
-          {% if page.alumni == true %}<span class="badge bg-outline-primary ms-2">Alumni</span>{% endif %}
+          <!-- {% if page.alumni == true %}<span class="badge bg-outline-primary ms-2">Alumni</span>{% endif %} -->
         </div>
       {% endif %}
     </div>

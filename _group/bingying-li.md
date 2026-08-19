@@ -17,7 +17,7 @@ image: "/assets/img/people/bingying.jpg"      # put images here (create folder)
 interests:
   - Theoretical foundations of machine learning
   - Intersection of machine learning, statistics, and information theory
-order: 3                                     # for manual sorting within a role
+order: 1                                     # for manual sorting within a role
 alumni: false                                # set true and add `years:` if alumni
 years:                                       # optional, for alumni listing
   start: 2025-08
