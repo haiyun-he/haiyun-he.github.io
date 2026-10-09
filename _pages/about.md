@@ -35,8 +35,17 @@ My recent research interests lie in the intersection of **information theory** a
 
 <div style="background-color: #FFFBEB; padding: 15px; border: 2px solid #FFE082; border-radius: 5px;">
   💡 I am looking for highly motivated PhD/MPhil students and research assistants to join my group. <strong>Currently, I have openings for the Spring 2027 intake.</strong> If you are interested in exploring the intersection of information theory, machine learning, and statistics -- and have a reasonably strong background in mathematics or programming (or a strong interest in developing one) -- please feel free to reach out. 
-  <br><br>
-  To apply, please send an email with your CV, transcript, and a brief statement of your research interests. Use the subject line: <code>[Year]-[PhD/RA Application]-[Your Name]</code>, e.g., <code>27Spring-PhD Application-Haiyun He</code>.
+  <div style="margin-top: 10px; color: #555;">
+    🌐 <strong>English requirement:</strong>
+    IELTS (Academic) ≥ 6.5 (all sub-scores ≥ 5.5) or TOEFL-iBT ≥ 80 (≥ 4.5 under the new scale from 21 January 2026).
+  </div>
+  <div style="margin-top: 18px;">
+    ✉️ <strong>To apply:</strong>
+    Please send an email with your CV, transcript, and a brief statement of your research interests.
+    Use the subject line:
+    <code>[Year]-[PhD/RA Application]-[Your Name]</code>,
+    e.g., <code>27Spring-PhD Application-Haiyun He</code>.
+  </div>
 </div>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
